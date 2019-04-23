@@ -13,7 +13,7 @@ defmodule Aproj do
     end
   end
 
-  def novo do
+  def mostraOutra do
     IO.puts Modelo.executa
   end
 end

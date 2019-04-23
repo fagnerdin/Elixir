@@ -4,5 +4,5 @@ defmodule AprojTest do
 
   num_ = IO.gets "Digite o numero: "
   Aproj.parImpar( String.to_integer( String.trim(num_)) )
-
+  Aproj.mostraOutra()
 end
