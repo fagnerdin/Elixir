@@ -12,9 +12,9 @@
         },
         {
             "type": "mix_task",
-            "name": "mix test",
+            "name": "mix aproj",
             "request": "launch",
-            "task": "test",
+            "task": "aproj",
             "taskArgs": [
                 "--trace"
             ],
